@@ -14,5 +14,5 @@ git clone https://github.com/BVLC/caffe
 cd caffe
 cp Makefile.config.example Makefile.config
 echo 'CPU_ONLY := 1' >> Makefile.config
-make all
+make all -j$(nproc)
 echo "done!"
