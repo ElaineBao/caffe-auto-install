@@ -1,4 +1,4 @@
-##caffe自动安装
+##caffe自动安装(盆友们先star再fork好吗~_~)
 ### 安装普通依赖项,编译cpu-only caffe:
 * 使用`caffe.sh`来安装caffe需要的c++库以及python包.
 * `caffe.sh`会在home目录下载caffe源代码并编译cpu-only版caffe
