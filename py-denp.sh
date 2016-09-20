@@ -11,7 +11,7 @@ pip install scikit-image scikit-learn
 pip install matplotlib 
 #sudo pip install pyopencv
 pip install ipython jupyter
-pip install 'protobuf>=3.0.0a3'
+pip install protobuf
 pip install h5py leveldb lmdb
 pip install networkx nose
 pip install pandas
